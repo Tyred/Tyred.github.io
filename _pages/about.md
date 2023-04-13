@@ -15,6 +15,8 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently an AI Research Engineer at Samsung R&D Institute Brazil, doing research on Deep Learning for health applications on Samsung smartphones and wearables.
+Former AI Research Engineer at Samsung, I'm currently pursuing a PhD in Computer Science and Computational Mathematics at University of São Paulo working with [Prof. Diego Furtado Silva](https://sites.google.com/view/diegofsilva).
 
-I received my Bachelor’s in Computer Science from the Federal University of São Carlos, Brazil in 2022. During my time as an undergraduate I've accomplished two [Undergraduate Research Projects](https://bv.fapesp.br/en/pesquisador/704216/yuri-gabriel-aragao-da-silva/) funded from The São Paulo Research Foundation working with [Prof. Diego Furtado Silva](https://sites.google.com/view/diegofsilva), both in Machine Learning and Data Mining fields. I've also worked at Samsung as an Aritificial Intelligence R&D Intern.
+My PhD research is about Machine Learning applied to Health Solutions using mobile and wearable devices.
+
+I received my Bachelor’s in Computer Science from the Federal University of São Carlos, Brazil in 2022. During my time as an undergraduate I've accomplished two [Undergraduate Research Projects](https://bv.fapesp.br/en/pesquisador/704216/yuri-gabriel-aragao-da-silva/) funded from The São Paulo Research Foundation, both in Machine Learning and Data Mining fields. I've also worked at Samsung as an Aritificial Intelligence R&D Intern.
